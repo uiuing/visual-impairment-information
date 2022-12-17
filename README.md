@@ -4,6 +4,4 @@
 
 <br />
 
-<video height="550" controls>
-    <source src="./demonstration.mp4" type="video/mp4">
-</video>
+# 详情请看该视频：https://github.com/uiuing/visual-impairment-information/blob/master/demonstration.mp4
